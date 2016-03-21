@@ -1,2 +1,2 @@
 # efficuts
-Packet Classification algorithm
+Packet Classification algorithm for netbench library.
